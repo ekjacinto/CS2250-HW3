@@ -11,8 +11,7 @@ body {
   width: 250px;
   height: 310px;
   background-color: #393838;
-  border: 1px solid #cccccc;
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 2px 3px 4px black;
   border-radius: 5px;
   overflow: hidden;
   scale: 2;
